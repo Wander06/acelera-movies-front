@@ -44,7 +44,6 @@ export const HomeStyle = styled.div`
   .containerCards {
     .movieCards {
       display: flex;
-      width: 80%;
       margin: 10px 10px 100px 10px;
     }
     img {
